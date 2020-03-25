@@ -1,20 +1,20 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <h1 align="center">
-  Tameto Gatsby Simple Starter
+  Tameto Gatsby
 </h1>
 
-A more than minimal starter for a gatsby site.
+A more than minimal starter for a Gatsby site.
 
 
 ## 🚀 Quick start
 
-1.  **Create a Tameto Gatsby Simple Starter site.**
+1.  **Create a Tameto Gatsby site.**
 
-    Use the Gatsby CLI to create a new site, specifying the Tameto Gatsby Simple starter.
+    Use the Gatsby CLI to create a new site, specifying the Tameto Gatsby starter.
 
     ```shell
     # create a new Gatsby site using the default starter
-    gatsby new my-default-starter https://github.com/matteocarpi/tameto-gatsby-simple-starter
+    gatsby new my-default-starter https://https://github.com/matteocarpi/Tameto-Gatsby
     ```
 
 1.  **Start developing.**
