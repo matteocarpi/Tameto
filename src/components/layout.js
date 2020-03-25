@@ -23,9 +23,6 @@ const Layout = ({ children }) => {
   return (
     <>
       <main>{children}</main>
-      <footer>
-          © {new Date().getFullYear()}, {data.site.siteMetadata.title}
-      </footer>
     </>
   );
 };
