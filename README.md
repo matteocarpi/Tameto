@@ -3,7 +3,7 @@
   Tameto Gatsby
 </h1>
 
-A more than minimal starter for a Gatsby site.
+A Gatbsy starter with all my favourite tools.
 
 
 ## 🚀 Quick start
